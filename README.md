@@ -1,7 +1,11 @@
 # ❤️ Heart Stroke Prediction App
 
-A Machine Learning-based web application built with **Python**, **Scikit-learn**, and **Streamlit** to predict heart stroke risk using patient clinical parameters. The application offers a simple and interactive interface for entering health information and receiving instant predictions.
+A Machine Learning-based web application built with **Python**, **Scikit-learn**, and **Streamlit** to predict heart stroke risk using patient clinical parameters.
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## 📌 Overview
@@ -107,12 +111,11 @@ The application predicts whether a patient is at higher or lower risk based on t
 
 ---
 
-## 🖥️ Application Preview
+ ## 🖥️ Application Preview
 
-<img src="images/app.png" width="700">
-
-> Save your application screenshot inside an **images** folder as **image.png**.
-
+<p align="center">
+  <img src="image/image.png" alt="Heart Stroke Prediction App" width="850">
+</p>
 ---
 
 ## 🔮 Future Enhancements
