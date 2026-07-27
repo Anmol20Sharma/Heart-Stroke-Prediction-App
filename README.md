@@ -111,7 +111,7 @@ The application predicts whether a patient is at higher or lower risk based on t
 
 <img src="images/app.png" width="700">
 
-> Save your application screenshot inside an **images** folder as **app.png**.
+> Save your application screenshot inside an **images** folder as **image.png**.
 
 ---
 
